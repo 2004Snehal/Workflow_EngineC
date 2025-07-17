@@ -32,7 +32,7 @@ WorkflowEngine/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/2004Snehal/Workflow_EngineC-.git
+git clone https://github.com/2004Snehal/Workflow_EngineC.git
 cd WorkflowEngine
 ```
 
