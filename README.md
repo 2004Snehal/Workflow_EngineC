@@ -45,11 +45,8 @@ dotnet run
 
 By default, the server runs at `http://localhost:5113`.
 
-### 3. Import Postman Collection
 
-Use the provided file `WorkflowEngine.postman_collection.json` to test API endpoints.
-
-### 4. Example Workflow Flow
+### 3. Example Workflow Flow
 
 1. `POST /workflow` → create workflow definition
 2. `POST /workflow/{id}/start` → start an instance
